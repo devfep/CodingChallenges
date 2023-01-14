@@ -15,7 +15,6 @@ public class MissingNumber {
         for (int num:nums){
             sum += num;
         }
-
         return arrTotal - sum;
     }
 
